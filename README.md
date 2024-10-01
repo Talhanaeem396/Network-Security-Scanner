@@ -29,8 +29,7 @@ To start a scan, simply run the script and enter the target IP when prompted:
    ```bash
    python network_scanner.py
 
-## Installation
-## Example output:
+## Example Output:
 Enter the IP address to scan: 192.168.1.1
 Pinging 192.168.1.1...
 Scanning ports on 192.168.1.1...
