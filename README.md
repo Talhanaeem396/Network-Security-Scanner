@@ -35,6 +35,3 @@ Pinging 192.168.1.1...
 Scanning ports on 192.168.1.1...
 Open ports on 192.168.1.1: [22, 80, 443]
 Network security scan for 192.168.1.1 completed.
-
-## Dependencies
-The required Python libraries are listed in the requirements.txt file.
