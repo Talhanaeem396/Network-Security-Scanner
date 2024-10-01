@@ -28,10 +28,3 @@ This **Basic Network Security Scanner** is a simple tool for scanning open ports
 To start a scan, run the script and enter the target IP when prompted:
    ```bash
    python network_scanner.py
-
-## Example Output:
-Enter the IP address to scan: 192.168.1.1
-Pinging 192.168.1.1...
-Scanning ports on 192.168.1.1...
-Open ports on 192.168.1.1: [22, 80, 443]
-Network security scan for 192.168.1.1 completed.
